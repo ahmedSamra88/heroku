@@ -1,0 +1,8 @@
+@import url('bootstrap-extended.css');
+/* // Bootstrap */
+@import url('~bootstrap/scss/bootstrap');
+@import url('colors.css');
+@import url('components.css');
+body{
+    background: #fff !important;
+}

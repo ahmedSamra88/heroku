@@ -1,0 +1,7 @@
+pusher web socket
+env
+jquery
+pusher js cdn
+
+uncomment broadcast
+

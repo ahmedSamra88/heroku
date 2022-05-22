@@ -1,0 +1,13 @@
+
+/*start dashboard style*/
+.dashboard input[type=file]{
+    opacity: 0;
+}
+/*end dashboard style*/
+
+.image-area img {
+    z-index: 2;
+    position: relative;
+}
+
+/*end header dashboard*/
